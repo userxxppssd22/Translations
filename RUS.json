@@ -2108,5 +2108,14 @@
     "WHEEL_TYPE": "Типы колес",
     "WINDOW_TINT": "Тонировка",
     "YES": "Да",
-    "YOU_HAVE_BEEN_KICKED": "Вы были кикнуты хостом сессии"
+    "YOU_HAVE_BEEN_KICKED": "Вы были кикнуты хостом сессии",
+    "PLAYER_DATABASE_SESSION_TYPE_OFFLINE": "Оффлайн",
+    "PLAYER_DATABASE_SESSION_TYPE_INVITEONLY": "Только по приглашениям",
+    "PLAYER_DATABASE_SESSION_TYPE_FRIENDSONLY": "Только для друзей",
+    "PLAYER_DATABASE_SESSION_TYPE_CLOSEDCREW": "Закрытая для банды",
+    "PLAYER_DATABASE_SESSION_TYPE_OPENCREW": "Банда",
+    "PLAYER_DATABASE_SESSION_TYPE_JOB": "Дело",
+    "PLAYER_DATABASE_SESSION_TYPE_PUBLIC": "Публичная",
+    "PLAYER_DATABASE_SESSION_TYPE_ANOTHER": "Другое",
+    "PLAYER_DATABASE_SESSION_TYPE_UNKNOWN": "Неизвестная"
 }
