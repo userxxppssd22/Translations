@@ -1,0 +1,15 @@
+{
+    "version": 126,
+    "default_lang": "RUS",
+    "translations": {
+        "ENG": {
+            "name": "English (US)",
+            "file": "ENG.json"
+        },
+        "RUS": {
+            "alphabet_type": "cyrillic",
+            "name": "Russian (RU)",
+            "file": "RUS.json"
+        }
+    }
+}
