@@ -2147,5 +2147,6 @@
     "SPAM_TOGGLE": "Spamming the chat",
     "SPAM_TEXT_INPUT": "Text",
     "SPAM_DELAY": "Delay (ms)",
-    "SPAM_SHOWME": "Show Me"
+    "SPAM_SHOWME": "Show Me",
+    "MESSAGE_INPUT": "Message"
 }
