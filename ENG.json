@@ -2150,5 +2150,6 @@
     "SPAM_SHOWME": "Show Me",
     "MESSAGE_INPUT": "Message",
     "SPOOFING_SESSION": "Session",
-    "SPOOFING_SESSION_TYPE": "Spoof Session Type"
+    "SPOOFING_SESSION_TYPE": "Spoof Session Type",
+    "SPOOFING_SESSING_TYPE_DESC": "Session Type that will be visible to those who are trying to track you."
 }
