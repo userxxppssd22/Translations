@@ -2133,5 +2133,6 @@
     "SPAM_TOGGLE": "Спамить в чате",
     "SPAM_TEXT_INPUT": "Текст",
     "SPAM_DELAY": "Задержка (мс)",
-    "SPAM_SHOWME": "Показывать у себя"
+    "SPAM_SHOWME": "Показывать у себя",
+    "MESSAGE_INPUT": "Сообщение"
 }
