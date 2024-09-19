@@ -630,6 +630,7 @@
     "GUI_TAB_VFX": "Визуальные эффекты",
     "GUI_TAB_WAYPOINT_N_OBJECTIVE": "Точка назначения и цель",
     "GUI_TAB_WEAPONS": "Оружие",
+    "GUI_TAB_WEAPONS_AMMUNATION": "Аммунация",
     "GUI_TAB_WORLD": "Мир",
     "GUI_TAB_XML_MAPS": "Карты в XML",
     "HANDLING_ACCELERATION_MULTIPLIER": "Множитель ускорения",
@@ -2134,6 +2135,5 @@
     "SPAM_TEXT_INPUT": "Текст",
     "SPAM_DELAY": "Задержка (мс)",
     "SPAM_SHOWME": "Показывать у себя",
-    "MESSAGE_INPUT": "Сообщение",
-    "GUI_TAB_WEAPONS_AMMUNATION": "Аммунация"
+    "MESSAGE_INPUT": "Сообщение"
 }
