@@ -2142,5 +2142,10 @@
     "PLAYER_DATABASE_GAMEMODE_TYPE_TENNIS": "Tennis",
     "PLAYER_DATABASE_GAMEMODE_TYPE_SHOOTINGRANGE": "Shooting Range",
     "PLAYER_DATABASE_GAMEMODE_TYPE_UNKNOWN": "Unknown",
-    "PLAYER_DATABASE_DELETE_INFRACTIONS": "Delete Infractions"
+    "PLAYER_DATABASE_DELETE_INFRACTIONS": "Delete Infractions",
+    "SPAM_FUNCTIONS": "Spam Functions",
+    "SPAM_TOGGLE": "Spamming the chat",
+    "SPAM_TEXT_INPUT": "Text",
+    "SPAM_DELAY": "Delay (ms)",
+    "SPAM_SHOWME": "Show Me"
 }
