@@ -2136,5 +2136,6 @@
     "SPAM_DELAY": "Задержка (мс)",
     "SPAM_SHOWME": "Показывать у себя",
     "MESSAGE_INPUT": "Сообщение",
-    "SPOOFING_SESSION": "Сессия"
+    "SPOOFING_SESSION": "Сессия",
+    "SPOOFING_SESSION_TYPE": "Подмена типа сессии"
 }
