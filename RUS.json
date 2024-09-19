@@ -2128,5 +2128,10 @@
     "PLAYER_DATABASE_GAMEMODE_TYPE_TENNIS": "Теннис",
     "PLAYER_DATABASE_GAMEMODE_TYPE_SHOOTINGRANGE": "Тир",
     "PLAYER_DATABASE_GAMEMODE_TYPE_UNKNOWN": "Неизвестный",
-    "PLAYER_DATABASE_DELETE_INFRACTIONS": "Удалить нарушения"
+    "PLAYER_DATABASE_DELETE_INFRACTIONS": "Удалить нарушения",
+    "SPAM_FUNCTIONS": "Спам-функции",
+    "SPAM_TOGGLE": "Спамить в чате",
+    "SPAM_TEXT_INPUT": "Текст",
+    "SPAM_DELAY": "Задержка (мс)",
+    "SPAM_SHOWME": "Показывать у себя"
 }
