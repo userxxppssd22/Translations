@@ -2148,5 +2148,6 @@
     "SPAM_TEXT_INPUT": "Text",
     "SPAM_DELAY": "Delay (ms)",
     "SPAM_SHOWME": "Show Me",
-    "MESSAGE_INPUT": "Message"
+    "MESSAGE_INPUT": "Message",
+    "SPOOFING_SESSION": "Session"
 }
