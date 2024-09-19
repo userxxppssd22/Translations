@@ -2149,5 +2149,6 @@
     "SPAM_DELAY": "Delay (ms)",
     "SPAM_SHOWME": "Show Me",
     "MESSAGE_INPUT": "Message",
-    "SPOOFING_SESSION": "Session"
+    "SPOOFING_SESSION": "Session",
+    "SPOOFING_SESSION_TYPE": "Spoof Session Type"
 }
