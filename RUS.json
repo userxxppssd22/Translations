@@ -2137,5 +2137,6 @@
     "SPAM_SHOWME": "Показывать у себя",
     "MESSAGE_INPUT": "Сообщение",
     "SPOOFING_SESSION": "Сессия",
-    "SPOOFING_SESSION_TYPE": "Подмена типа сессии"
+    "SPOOFING_SESSION_TYPE": "Подмена типа сессии",
+    "SPOOFING_SESSING_TYPE_DESC": "Тип сессии, который будет виден тем, кто пытается отследить вас."
 }
