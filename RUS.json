@@ -2054,7 +2054,7 @@
     "VIEW_WEAPON_AIM_FOV": "Поле зрения",
     "VIEW_WEAPON_AIM_SPEED": "Скорость",
     "VIEW_WEAPON_ALLOW_WEAPONS_IN_INTERIORS": "Разрешить оружие в интерьерах",
-    "VIEW_WEAPON_AMMUNATION": "Ammu-Nation",
+    "VIEW_WEAPON_AMMUNATION": "Аммунация",
     "VIEW_WEAPON_ATTACHMENTS": "Модули",
     "VIEW_WEAPON_CUSTOM_GUN_ONLY_FIRES_WHEN_THE_WEAPON_IS_OUT": "Настраивающая пушка стреляет только тогда, когда в руках находится оружие",
     "VIEW_WEAPON_DAMAGE": "Урон",
@@ -2134,5 +2134,6 @@
     "SPAM_TEXT_INPUT": "Текст",
     "SPAM_DELAY": "Задержка (мс)",
     "SPAM_SHOWME": "Показывать у себя",
-    "MESSAGE_INPUT": "Сообщение"
+    "MESSAGE_INPUT": "Сообщение",
+    "GUI_TAB_WEAPONS_AMMUNATION": "Аммунация",
 }
