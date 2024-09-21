@@ -2156,5 +2156,10 @@
     "SPOOFING_SESSION_TYPE": "Подмена типа сессии",
     "SPOOFING_SESSION_TYPE_DESC": "Тип сессии, который будет виден тем, кто пытается отследить вас.",
     "BATTLEYE_KICK": "Кик Battleye",
-    "BATTLEYE_FAKE_BAN": "Отправить фальшивый Battleye бан"
+    "BATTLEYE_FAKE_BAN": "Отправить фальшивый Battleye бан",
+    "CHAT_COMMAND_PERMISSION_NONE": "Нет",
+    "CHAT_COMMAND_PERMISSION_FRIENDLY": "Дружелюбные",
+    "CHAT_COMMAND_PERMISSION_AGGRESSIVE": "Агрессивные",
+    "CHAT_COMMAND_PERMISSION_TOXIC": "Токсичные",
+    "CHAT_COMMAND_PERMISSION_AGGRESSIVE": "Админ"
 }
