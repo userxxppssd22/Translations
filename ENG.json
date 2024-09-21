@@ -2148,7 +2148,7 @@
     "PLAYER_DATABASE_TRACKER_NOW_ONLINE": "{} is now online.",
     "PLAYER_DATABASE_TRACKER_NO_LONGER_JOINABLE_SESSION": "{} is no longer in a joinable session.",
     "PLAYER_DATABASE_TRACKER_NO_LONGER_ONLINE": "{} is no longer online.",
-    "PLAYER_DATABASE_TRACKER_NOW_IN_SESSION": "{} is now in a {} {} session.",
+    "PLAYER_DATABASE_TRACKER_NOW_IN_SESSION": "{} is now in a {} session.",
     "SPAM_FUNCTIONS": "Spam Functions",
     "SPAM_TOGGLE": "Spamming the chat",
     "SPAM_TEXT_INPUT": "Text",
