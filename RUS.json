@@ -2135,7 +2135,7 @@
     "PLAYER_DATABASE_TRACKER_NOW_ONLINE": "{} сейчас онлайн.",
     "PLAYER_DATABASE_TRACKER_NO_LONGER_JOINABLE_SESSION": "{} больше не в сессии, к которой можно присоединиться.",
     "PLAYER_DATABASE_TRACKER_NO_LONGER_ONLINE": "{} теперь оффлайн.",
-    "PLAYER_DATABASE_TRACKER_NOW_IN_SESSION": "{} сейчас в {} {} сессии.",
+    "PLAYER_DATABASE_TRACKER_NOW_IN_SESSION": "{} сейчас в {} сессии.",
     "SPAM_FUNCTIONS": "Спам-функции",
     "SPAM_TOGGLE": "Спамить в чате",
     "SPAM_TEXT_INPUT": "Текст",
