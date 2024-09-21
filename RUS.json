@@ -2131,7 +2131,7 @@
     "PLAYER_DATABASE_GAMEMODE_TYPE_SHOOTINGRANGE": "Тир",
     "PLAYER_DATABASE_GAMEMODE_TYPE_UNKNOWN": "Неизвестный",
     "PLAYER_DATABASE_DELETE_INFRACTIONS": "Удалить нарушения",
-    "PLAYER_DATABASE_TRACKER_NEW_JOINABLE_SESSION": "{} сейчас находится в сессии, к которой вы можете присоединиться.",
+    "PLAYER_DATABASE_TRACKER_NEW_JOINABLE_SESSION": "{} сейчас находится в сессии, к которой можно присоединиться.",
     "PLAYER_DATABASE_TRACKER_NOW_ONLINE": "{} сейчас онлайн.",
     "PLAYER_DATABASE_TRACKER_NO_LONGER_JOINABLE_SESSION": "{} больше не в сессии, к которой можно присоединиться.",
     "PLAYER_DATABASE_TRACKER_NO_LONGER_ONLINE": "{} теперь оффлайн.",
