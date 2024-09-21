@@ -2169,5 +2169,10 @@
     "SPOOFING_SESSION_TYPE": "Spoof Session Type",
     "SPOOFING_SESSION_TYPE_DESC": "Session Type that will be visible to those who are trying to track you.",
     "BATTLEYE_KICK": "Battleye Kick",
-    "BATTLEYE_FAKE_BAN": "Send Fake Ban Battleye"
+    "BATTLEYE_FAKE_BAN": "Send Fake Ban Battleye",
+    "CHAT_COMMAND_PERMISSION_NONE": "None",
+    "CHAT_COMMAND_PERMISSION_FRIENDLY": "Friendly",
+    "CHAT_COMMAND_PERMISSION_AGGRESSIVE": "Aggressive",
+    "CHAT_COMMAND_PERMISSION_TOXIC": "Toxic",
+    "CHAT_COMMAND_PERMISSION_ADMIN": "Admin"
 }
