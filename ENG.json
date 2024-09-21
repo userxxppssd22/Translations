@@ -2154,5 +2154,5 @@
     "SPOOFING_SESSION_TYPE": "Spoof Session Type",
     "SPOOFING_SESSION_TYPE_DESC": "Session Type that will be visible to those who are trying to track you.",
     "BATTLEYE_KICK": "Battleye Kick",
-    "BATTLEYE_FAKE_BAN": "Send fake Battleye Ban"
+    "BATTLEYE_FAKE_BAN": "Send Fake Ban Battleye"
 }
