@@ -2158,7 +2158,7 @@
     "PLAYER_DATABASE_TRACKER_NO_LONGER_LOBBY_JOB": "{} is no longer in a job lobby.",
     "PLAYER_DATABASE_TRACKER_GAMEMODE_NO_LONGER": "{} is no longer in a {}.",
     "PLAYER_DATABASE_TRACKER_GAMEMODE_NOW_IN": "{} is now in a {}.",
-    "PLAYER_DATABASE_TRACKER_GAMEMODE_JOINED_THE": "{} has joined the {} \"{}\"",
+    "PLAYER_DATABASE_TRACKER_GAMEMODE_JOINED_THE": "{} has joined the {} \"{}\".",
     "SPAM_FUNCTIONS": "Spam Functions",
     "SPAM_TOGGLE": "Spamming the chat",
     "SPAM_TEXT_INPUT": "Text",
