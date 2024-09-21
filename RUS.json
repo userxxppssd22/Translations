@@ -2140,5 +2140,6 @@
     "SPOOFING_SESSION": "Сессия",
     "SPOOFING_SESSION_TYPE": "Подмена типа сессии",
     "SPOOFING_SESSION_TYPE_DESC": "Тип сессии, который будет виден тем, кто пытается отследить вас.",
-    "BATTLEYE_KICK": "Кик Battleye"
+    "BATTLEYE_KICK": "Кик Battleye",
+    "BATTLEYE_FAKE_BAN": "Battleye Ban"
 }
