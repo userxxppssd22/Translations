@@ -2185,5 +2185,18 @@
     "CHAT_COMMAND_PERMISSION_AGGRESSIVE": "Агрессивные",
     "CHAT_COMMAND_PERMISSION_TOXIC": "Токсичные",
     "CHAT_COMMAND_PERMISSION_ADMIN": "Админ",
-    "SESSION_BROWSER_MULTIPLEX_NAME": "Реклама"
+    "SESSION_BROWSER_MULTIPLEX_NAME": "Реклама",
+    "REGION_LANGUAGE_CODE_ENGLISH": "Английский",
+    "REGION_LANGUAGE_CODE_FRENCH": "Французский",
+    "REGION_LANGUAGE_CODE_GERMAN": "Немецкий",
+    "REGION_LANGUAGE_CODE_ITALIAN": "Итальянский",
+    "REGION_LANGUAGE_CODE_SPANISH": "Испанский",
+    "REGION_LANGUAGE_CODE_PORTUGUESE": "Португальский",
+    "REGION_LANGUAGE_CODE_POLISH": "Польский",
+    "REGION_LANGUAGE_CODE_RUSSIAN": "Русский",
+    "REGION_LANGUAGE_CODE_KOREAN": "Корейский",
+    "REGION_LANGUAGE_CODE_TRADITIONAL_CHINESE": "Китайский (традиционный)",
+    "REGION_LANGUAGE_CODE_JAPANESE": "Японский",
+    "REGION_LANGUAGE_CODE_MEXICAN_SPANISH": "Испанский (Мексика)",
+    "REGION_LANGUAGE_CODE_SIMPLIFIED_CHINESE": "Китайский (упрощенный)"
 }
