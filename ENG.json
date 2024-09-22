@@ -1265,7 +1265,7 @@
     "SEND_TO_CUTSCENE": "Send to Cutscene",
     "SEND_TO_LOCATION": "Send to Location",
     "SESSION_BROWSER_DISCRIMINATOR": "Discriminator",
-    "SESSION_BROWSER_HOST_RID": "Host Rockstar ID",
+    "SESSION_BROWSER_HOST_RID": "Host",
     "SESSION_BROWSER_NUM_PLAYERS": "Number of Players",
     "SESSION_CONTROL": "Session Control",
     "SESSION_INFO": "Session Info",
