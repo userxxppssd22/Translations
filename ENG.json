@@ -315,6 +315,7 @@
     "BLOCK_TRAFFIC_MANIPULATION": "Block Traffic Manipulation",
     "BOOST_BEHAVIOR": "Boost Behavior",
     "BOUNTY": "Bounty",
+    "BOUNTY_ALL": "Bounty All",
     "BOUNTY_ANON": "Anonymous Bounty",
     "BOUNTY_ANON_DESC": "Don't show your name when setting a bounty on someone",
     "BOUNTY_DESC": "Sets a 10k bounty on the player",
