@@ -1848,7 +1848,7 @@
     "VIEW_PROTECTION_SETTINGS_ENABLE_ALL_PROTECTIONS": "Полностью включить защиту",
     "VIEW_PROTECTION_SETTINGS_KICK_REJOIN": "Кикать присоединяющихся повторно",
     "VIEW_PROTECTION_SETTINGS_OPTIONS": "Опции",
-    "VIEW_PROTECTION_SETTINGS_RECEIVE_PICKUP_TOOLTIP": "Давнная опция предотвращает сбор значков, таких как сумки с деньгами, которые игрок предпочел бы не поднимать.\nПримечание: пока данная функция включена, абсолютно все значки становятся неподбираемыми.",
+    "VIEW_PROTECTION_SETTINGS_RECEIVE_PICKUP_TOOLTIP": "Данная опция предотвращает сбор пикапов, таких как сумки с деньгами, которые игрок предпочел бы не поднимать.\nПримечание: пока данная функция включена, абсолютно все пикапы становятся неподбираемыми.",
     "VIEW_PROTECTION_SETTINGS_RESET_PROTECTIONS": "Сбросить настройки защиты",
     "VIEW_SELF_ANIMATIONS_ADVANCED_OPTIONS": "Расширенные настройки",
     "VIEW_SELF_ANIMATIONS_AMBIENT": "Окружение",
