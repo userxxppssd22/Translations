@@ -2240,5 +2240,6 @@
     "INFRACTION_SUPER_JUMP": "Had used super jump",
     "INFRACTION_UNDEAD_OTR": "Had used undead OTR",
     "INFRACTION_CHAT_SPAM": "Chat spammer",
-    "INFRACTION_SENT_MODDER_BEACONS": "Sent modder beacons"
+    "INFRACTION_SENT_MODDER_BEACONS": "Sent modder beacons",
+    "SESSION_BROWSER_FAILED_GET_NAME_HOST": "Could not get the Host Name."
 }
