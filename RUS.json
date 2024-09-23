@@ -2180,6 +2180,7 @@
     "SPOOFING_SESSION": "Сессия",
     "SPOOFING_SESSION_TYPE": "Подмена типа сессии",
     "SPOOFING_SESSION_TYPE_DESC": "Тип сессии, который будет виден тем, кто пытается отследить вас.",
+    "SPOOFING_SESSION_HOST": "Подмена хоста сессии",
     "BATTLEYE_KICK": "Кик Battleye",
     "BATTLEYE_FAKE_BAN": "Отправить Battleye бан",
     "BATTLEYE_FAKE_BAN_DESC": "В результате игрок не сможет присоединиться к GTA Online, пока не перезапустит игру.",
