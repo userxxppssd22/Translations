@@ -125,6 +125,8 @@
     "BACKEND_LOOPED_SELF_TOGGLE_PASSIVE_DISABLED_PASSIVE_MODE_MESSAGE": "Пассивный режим отключен, потому что вы начали миссиию или присоединились к своему мотоклубу или организации.",
     "BACKEND_LOOPED_SYSTEM_VOICE_CHAT_AUDIO": "Проиграть аудио через голосовой чат",
     "BACKEND_LOOPED_SYSTEM_VOICE_CHAT_AUDIO_DESC": "Проигрывает файл audio.wav из папки проекта через голосовой чат. Файл .wav должен быть записан в формате моно 16 бит 16kHz PCM. При загрузке меню необоходимо убедиться, что настройки голосового чата сброшены, иначе звук не проиграется.",
+    "BACKEND_LOOPED_FAKE_LAGS": "Искусственные лаги",
+    "BACKEND_LOOPED_FAKE_LAGS_DESC": "Создает искусственные лаги, которые видят остальные игроки.",
     "BACKEND_LOOPED_VEHICLE_ABILITY_GLIDER": "Опрессор МК 1",
     "BACKEND_LOOPED_VEHICLE_ABILITY_GLIDER_DESC": "Применяет способность крылатого полета Oppressor Mk 1 к вашему транспорту. Это работает только для мотоциклов и велосипедов.",
     "BACKEND_LOOPED_VEHICLE_ABILITY_JUMP": "Прыгучесть",
