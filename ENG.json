@@ -127,6 +127,7 @@
     "BACKEND_LOOPED_SYSTEM_VOICE_CHAT_AUDIO_DESC": "Plays the audio.wav file in the project folder through voice chat. The wave file must be encoded with a mono 16 bit 16kHz PCM format. You have to reset voice chat settings whenever you load the menu for the sound to play.",
     "BACKEND_LOOPED_FAKE_LAGS": "Artificial Lags",
     "BACKEND_LOOPED_FAKE_LAGS_DESC": "Creates artificial lags that other players can see.",
+    "ARTIFICIAL_LAGS_DELAY": "Delay (sec.)",
     "BACKEND_LOOPED_VEHICLE_ABILITY_GLIDER": "Oppressor Mk 1",
     "BACKEND_LOOPED_VEHICLE_ABILITY_GLIDER_DESC": "Applies the Oppressor Mk 1's gliding ability to your vehicle. This only works for motorcycles and bikes.",
     "BACKEND_LOOPED_VEHICLE_ABILITY_JUMP": "Jump",
