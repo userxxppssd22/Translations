@@ -1830,7 +1830,7 @@
     "VIEW_PLAYER_INFO_UNNATURAL_HEALTH": "Слишком высокое значение здоровья",
     "VIEW_PLAYER_IS_FRIEND": "Друг",
     "VIEW_PLAYER_IS_HOST": "Хост",
-    "VIEW_PLAYER_KICK_HOST_AND_BREAKUP_KICK_REQUIRE_SESSION_HOST": "Для кика хоста и кика с принудительным разрывом соединения необходимо выбрать хоста.",
+    "VIEW_PLAYER_KICK_HOST_AND_BREAKUP_KICK_REQUIRE_SESSION_HOST": "Для этих киков требуется Хост.",
     "VIEW_PLAYER_TELEPORT_CUSTOM_TP": "Настраиваемая телепортация",
     "VIEW_PLAYER_TELEPORT_GET_CURRENT": "Получить текущие координаты",
     "VIEW_PLAYER_TELEPORT_INTERIOR_TELEPORT": "Интерьерный телепорт",
