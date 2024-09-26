@@ -2236,5 +2236,5 @@
     "INFRACTION_CHAT_SPAM": "Спамил в чате",
     "INFRACTION_SENT_MODDER_BEACONS": "Отправлял моддерские маяки",
     "SESSION_BROWSER_FAILED_GET_NAME_HOST": "Не удалось получить имя хоста.",
-    "SESSION_ANOTHER_OPTS": "Другие опции"
+    "SESSION_OTHER_OPTS": "Другие опции"
 }
