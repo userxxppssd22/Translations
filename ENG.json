@@ -524,7 +524,7 @@
     "FAKE_BAN_MESSAGE_DESC": "Sends a fake ban notification to the player",
     "FAKE_DEPOSIT": "Fake Deposit",
     "FAST_JOIN": "Fast Join",
-    "FAST_JOIN_DESC": "This WILL break jobs",
+    "FAST_JOIN_DESC": "This feature can break jobs.",
     "FILE_NAME": "File Name",
     "FILL_AMMO": "Fill Ammo",
     "FILL_AMMO_DESC": "Fills all of your ammo.",
