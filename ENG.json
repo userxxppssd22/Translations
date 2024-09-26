@@ -11,7 +11,7 @@
     "AUTO_DRIVE": "Auto Drive",
     "AUTO_KICK_CHAT_SPAMMERS": "Auto-kick Chat Spammers",
     "AUTO_UPDATE_STATES": "Auto Update Tracked Player States",
-    "AUTO_UPDATE_STATES_DESC": "Toggling this feature will automatically update the tracked players' online states every minute. You must enable this for join redirect to work",
+    "AUTO_UPDATE_STATES_DESC": "It will automatically update the online status of tracked players.\nYou must enable this for join redirect to work.",
     "BACK": "Back",
     "BACKEND_BOOST_VEHICLE": "Boost Vehicle",
     "BACKEND_BOOST_VEHICLE_DESC": "Boosts target vehicle to its max speed.",
