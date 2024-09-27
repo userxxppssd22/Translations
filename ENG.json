@@ -2197,7 +2197,7 @@
     "SPOOFING_SESSION": "Session",
     "SPOOFING_SESSION_TYPE": "Spoof Session Type",
     "SPOOFING_SESSION_TYPE_DESC": "Session Type that will be visible to those who are trying to track you.",
-    "SPOOFING_SESSION_HOST": "Spoofing Host",
+    "SPOOFING_SESSION_HOST": "Spoof Host",
     "BATTLEYE_KICK": "Battleye Kick",
     "BATTLEYE_FAKE_BAN": "Battleye Ban",
     "BATTLEYE_FAKE_BAN_DESC": "As a result, the player will not be able to join GTA Online until the game is restarted.",
