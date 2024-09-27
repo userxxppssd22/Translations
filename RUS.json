@@ -1379,9 +1379,9 @@
     "SPOOF_BADSPORT": "Подмена статуса неспортивного поведения",
     "SPOOF_BLIP_TYPE": "Заменить тип метки",
     "SPOOF_DLC_HASH": "Подмена хэша дополнений",
-    "SPOOF_DLC_HASH_DESC": "Подделывает хэш DLC. Это позволит подключаться к сессиям со сторонними дополнениями",
+    "SPOOF_DLC_HASH_DESC": "Подменяет хэш DLC. Это позволит подключаться к сессиям со сторонними дополнениями",
     "SPOOF_GAME_DATA_HASH": "Подмена хэша данных",
-    "SPOOF_GAME_DATA_HASH_DESC": "Подделывает хэш данных. Это позволит подключаться к сессиям со сторонними дополнениями",
+    "SPOOF_GAME_DATA_HASH_DESC": "Подменяет хэш данных. Это позволит подключаться к сессиям со сторонними дополнениями",
     "SPOOF_HOST_TOKEN_OFF": "Выкл",
     "SPOOF_HOST_TOKEN_TYPE_AGGRESSIVE": "Агрессивный",
     "SPOOF_HOST_TOKEN_TYPE_CUSTOM": "Другой",
@@ -2236,5 +2236,7 @@
     "INFRACTION_CHAT_SPAM": "Спамил в чате",
     "INFRACTION_SENT_MODDER_BEACONS": "Отправлял моддерские маяки",
     "SESSION_BROWSER_FAILED_GET_NAME_HOST": "Не удалось получить имя хоста.",
-    "SESSION_OTHER_OPTS": "Другие опции"
+    "SESSION_OTHER_OPTS": "Другие опции",
+    "BATTLEYE_BYPASS": "Обход Battleye",
+    "BATTLEYE_BYPASS_DESC": "Подменяет хэши даты игры.\nЭто позволит играть в GTA Online с отключенным Battleye."
 }
