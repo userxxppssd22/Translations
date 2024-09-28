@@ -2199,7 +2199,7 @@
     "SPOOFING_SESSION_TYPE_DESC": "Session Type that will be visible to those who are trying to track you.",
     "SPOOFING_SESSION_HOST": "Spoof Host",
     "SPOOFING_SESSION_HOST_DESC": "Session Host that will be visible to those who are trying to track you.",
-    "SPOOFING_SESSION_HOST_INPUT": "RID Host",
+    "SPOOFING_SESSION_HOST_RID": "RID Host",
     "SPOOFING_SESSION_HOST_NAME": "Name",
     "BATTLEYE_KICK": "Battleye Kick",
     "BATTLEYE_FAKE_BAN": "Battleye Ban",
