@@ -2196,14 +2196,14 @@
     "MESSAGE_INPUT": "Message",
     "SPOOFING_SESSION": "Session",
     "SPOOFING_SESSION_TYPE": "Spoof Session Type",
-    "SPOOFING_SESSION_TYPE_DESC": "Session Type that will be visible to those who are trying to track you.",
+    "SPOOFING_SESSION_TYPE_DESC": "Session Type that will be visible to those who are trying to track you",
     "SPOOFING_SESSION_HOST": "Spoof Host",
-    "SPOOFING_SESSION_HOST_DESC": "Session Host that will be visible to those who are trying to track you.",
+    "SPOOFING_SESSION_HOST_DESC": "Session Host that will be visible to those who are trying to track you",
     "SPOOFING_SESSION_HOST_RID": "RID Host",
     "SPOOFING_SESSION_HOST_NAME": "Name",
     "BATTLEYE_KICK": "Battleye Kick",
     "BATTLEYE_FAKE_BAN": "Battleye Ban",
-    "BATTLEYE_FAKE_BAN_DESC": "As a result, the player will not be able to join GTA Online until the game is restarted.",
+    "BATTLEYE_FAKE_BAN_DESC": "As a result, the player will not be able to join GTA Online until the game is restarted",
     "CHAT_COMMAND_PERMISSION_NONE": "None",
     "CHAT_COMMAND_PERMISSION_FRIENDLY": "Friendly",
     "CHAT_COMMAND_PERMISSION_AGGRESSIVE": "Aggressive",
@@ -2253,5 +2253,5 @@
     "SESSION_BROWSER_FAILED_GET_NAME_HOST": "Could not get the Host Name.",
     "SESSION_OTHER_OPTS": "Other Options",
     "BATTLEYE_BYPASS": "Battleye Bypass",
-    "BATTLEYE_BYPASS_DESC": "Replaces the hashes of the game date.\nThis will allow you to play GTA Online with Battleye disabled."
+    "BATTLEYE_BYPASS_DESC": "Replaces the hashes of the game date.\nThis will allow you to play GTA Online with Battleye disabled"
 }
