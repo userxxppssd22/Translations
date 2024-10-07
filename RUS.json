@@ -2241,5 +2241,6 @@
     "SESSION_BROWSER_FAILED_GET_NAME_HOST": "Не удалось получить имя хоста.",
     "SESSION_OTHER_OPTS": "Другие опции",
     "BATTLEYE_BYPASS": "Обход Battleye",
-    "BATTLEYE_BYPASS_DESC": "Подменяет хэши даты игры.\nЭто позволит играть в GTA Online с отключенным Battleye."
+    "BATTLEYE_BYPASS_DESC": "Подменяет хэши даты игры.\nЭто позволит играть в GTA Online с отключенным Battleye.",
+    "PLAYER_DATABASE_GET_NAME_BY_RID": "Получить имя из RID"
 }
