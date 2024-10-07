@@ -1787,6 +1787,7 @@
     "VIEW_NET_PLAYER_DB_NOTIFY_WHEN_ONLINE": "Notify When Online",
     "VIEW_NET_PLAYER_DB_NOTIFY_WHEN_UNJOINABLE": "Notify When Unjoinable",
     "VIEW_NET_PLAYER_DB_NO_USER_CAN_BE_FOUND": "No user '{}' called could be found.",
+    "VIEW_NET_PLAYER_DB_NO_USER_CAN_BE_FOUND_RID": "Couldn't find a user with RID '{}'",
     "VIEW_NET_PLAYER_DB_PLAYER_TRACKING": "Player Tracking",
     "VIEW_NET_PLAYER_DB_PREFERENCE": "Preference",
     "VIEW_NET_PLAYER_DB_SESSION_TYPE": "Session Type",
