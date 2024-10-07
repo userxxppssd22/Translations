@@ -1776,6 +1776,7 @@
     "VIEW_NET_PLAYER_DB_NOTIFY_WHEN_ONLINE": "Оповещать, когда в сети",
     "VIEW_NET_PLAYER_DB_NOTIFY_WHEN_UNJOINABLE": "Оповещать, когда нельзя присоединиться",
     "VIEW_NET_PLAYER_DB_NO_USER_CAN_BE_FOUND": "Не удалось найти пользователя по имени '{}'.",
+    "VIEW_NET_PLAYER_DB_NO_USER_CAN_BE_FOUND_RID": "Не удалось найти пользователя с RID '{}'.",
     "VIEW_NET_PLAYER_DB_PLAYER_TRACKING": "Отслеживание игрока",
     "VIEW_NET_PLAYER_DB_PREFERENCE": "Предпочтение",
     "VIEW_NET_PLAYER_DB_SESSION_TYPE": "Тип сессии",
