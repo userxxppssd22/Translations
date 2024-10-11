@@ -2187,7 +2187,7 @@
     "SPOOFING_SESSION_TYPE": "Подмена типа сессии",
     "SPOOFING_SESSION_TYPE_DESC": "Тип сессии, который будет виден тем, кто пытается отследить вас",
     "SPOOFING_SESSION_HOST": "Подмена хоста сессии",
-    "SPOOFING_SESSION_HOST_DESC": "Хост сессии, который будет виден тем, кто пытается отследить вас",
+    "SPOOFING_SESSION_HOST_DESC": "Хост сессии, который будет виден тем, кто пытается отследить вас.\nБудет работать только при условии включенного перенаправления присоединения.",
     "SPOOFING_SESSION_HOST_RID": "RID Хоста",
     "SPOOFING_SESSION_HOST_NAME": "Имя",
     "BATTLEYE_KICK": "Кик Battleye",
