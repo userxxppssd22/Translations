@@ -2195,6 +2195,8 @@
     "SPAM_DELAY": "Delay (ms)",
     "SPAM_SHOWME": "Show Me",
     "MESSAGE_INPUT": "Message",
+    "HIDE_SESSION": "Hide Session",
+    "HIDE_SESSION_DESC": "Cloaks your session for anyone trying to track, join, or spectate you.",
     "SPOOFING_SESSION": "Session",
     "SPOOFING_SESSION_TYPE": "Spoof Session Type",
     "SPOOFING_SESSION_TYPE_DESC": "Session Type that will be visible to those who are trying to track you.",
